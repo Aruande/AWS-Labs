@@ -86,7 +86,7 @@ This lab focused on configuring **Amazon S3** and **Amazon DynamoDB** to support
 ---
 
 ## **Lab Diagram**
-*(Insert Lab 3 AWS S3 & DynamoDB Diagram here)*
+![Lab 3 AWS S3 & DynamoDB Diagram](lab-3-overview.png)
 
 ---
 
