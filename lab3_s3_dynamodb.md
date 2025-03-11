@@ -12,7 +12,7 @@ This lab focused on configuring **Amazon S3** and **Amazon DynamoDB** to support
 ## **Key Tasks Performed**
 
 ### **1. Amazon S3 Bucket Creation**
-- Created an **Amazon S3 bucket** named `employee-photo-bucket-<INITIALS>-<NUMBER>`.
+- Created an **Amazon S3 bucket** named `employee-photo-bucket-mh-0212`.
 - Ensured the bucket was created in the specified **AWS region**.
 - Kept the **Block all public access** setting enabled to restrict unauthorized access.
 
