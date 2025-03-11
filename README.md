@@ -11,7 +11,7 @@ These labs focus on **EC2, VPC, IAM, S3, and networking** concepts in AWS.
 ### 📌 **VPC & EC2 Deployment**  
 - 🔹 [Lab 2: Creating a VPC and Launching a Web Application in an Amazon EC2 Instance](Lab2_VPC_EC2.md)
 
- ### **3️⃣ S3 & DynamoDB Integration**  
+### 📌 S3 & DynamoDB Integration  
 - 🔹 [Lab 3: Configuring Amazon S3 and DynamoDB for an Employee Directory Application](lab3_s3_dynamodb.md)  
 
 
